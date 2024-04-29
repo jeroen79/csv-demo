@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JJXSpGcUW7m3sVqhu2BtJp8jOME1PxkCBlVY/svKWN0=",
+  "Source": "RestJsonProvider",
+  "BasePath": "_content/RestJsonProvider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

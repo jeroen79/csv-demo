@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "37A6QYRXIW5rpEb+cu2LnYOyFmAyJPuSX4oPBITQHYoTGuK+8PNebx7KHXnhQEL7R++uqJAkFHU6YdqZY9zoQg==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\DPD\\RestJsonProvider\\RestJsonProvider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dekie\\.nuget\\packages\\bogus\\35.5.0\\bogus.35.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
